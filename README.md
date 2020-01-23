@@ -8,7 +8,7 @@ docker run -p 3000:3000 -d kleiton2102_dockerhub/nodejs-image-demo
 ```
 docker ps
 ```
-* *stop app: 
+* stop app: 
 ```
 docker stop (id image)
 ```
